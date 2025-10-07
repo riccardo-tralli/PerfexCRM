@@ -4075,3 +4075,7 @@ $lang['csv_export_twelve_months'] = 'Last 12 Months';
 $lang['csv_export_from_date'] = 'From Date';
 $lang['csv_export_to_date'] = 'To Date';
 $lang['csv_export_button'] = 'Export';
+
+# 3.4.1
+$lang['clear_queue'] = 'Clear Queue';
+$lang['email_queue_cleared'] = 'Email queue cleared successfully';
