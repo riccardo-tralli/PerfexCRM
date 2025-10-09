@@ -3945,7 +3945,7 @@ $lang['required_register_fields'] = '注册必填字段（客户区域）';
 
 # Version 3.1.6
 $lang['allow_non_admin_members_to_edit_ticket_messages'] = 'Allow non-admin staff members to edit ticket messages';
-$lang['proposal_auto_convert_to_invoice_on_client_accept'] = '客户接受后自动将提案转为发票（仅限关联客户的提案）';
+$lang['proposal_auto_convert_to_invoice_on_client_accept'] = '客户接受后自动将提案转为发票';
 $lang['invoice_activity_auto_converted_from_proposal'] = '发票自动从提案生成，提案编号：%s';
 $lang['clients_proposal_invoiced_successfully'] = '感谢接受提案。请查看为该提案生成的发票';
 # Version 3.2.0

@@ -3733,7 +3733,7 @@ $lang['required_register_fields'] = 'Campos requeridos para el registro (área d
 
 # Version 3.1.6
 $lang['allow_non_admin_members_to_edit_ticket_messages'] = 'Permitir que los miembros del personal no administrativo eliminen tickets y respuestasiminen tickets y respuestas';
-$lang['proposal_auto_convert_to_invoice_on_client_accept'] = 'Convertir automáticamente la propuesta a factura después de que el cliente acepte (solo propuestas relacionadas con los clientes)puestas relacionadas con los clientes)';
+$lang['proposal_auto_convert_to_invoice_on_client_accept'] = 'Convertir automáticamente la propuesta a factura después de que el cliente acepte';
 $lang['invoice_activity_auto_converted_from_proposal']      = 'Factura automática creada a partir de propuesta con númeroa con número %s';
 $lang['clients_proposal_invoiced_successfully'] = 'Gracias por aceptar la propuesta.Revise la factura creada para la propuesta';
 

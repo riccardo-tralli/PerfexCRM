@@ -3934,7 +3934,7 @@ $lang['required_register_fields'] = 'Champs requis pour l\'inscription (zone cli
 
 # Version 3.1.6
 $lang['allow_non_admin_members_to_edit_ticket_messages'] = 'Autoriser les membres de l\'équipe qui ne sont pas administrateurs d\'éditer les messages de billets';
-$lang['proposal_auto_convert_to_invoice_on_client_accept'] = 'Convertir automatiquement les propositions en facture après la validation du client (propositions uniquement liées aux clients)';
+$lang['proposal_auto_convert_to_invoice_on_client_accept'] = 'Convertir automatiquement les propositions en facture après la validation du client';
 $lang['invoice_activity_auto_converted_from_proposal']      = 'Facture créée automatiquement à partir de la proposition n° %s';
 $lang['clients_proposal_invoiced_successfully'] = 'Merci d\'avoir accepté la proposition. Veuillez vérifier la facture créée suite à la proposition.';
 

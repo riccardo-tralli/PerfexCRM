@@ -3923,7 +3923,7 @@ $lang['required_register_fields'] = 'Обязательные поля для р
 
 # Version 3.1.6
 $lang['allow_non_admin_members_to_edit_ticket_messages'] = 'Разрешить сотрудникам, не являющимся администраторами, удалять заявки и ответы';
-$lang['proposal_auto_convert_to_invoice_on_client_accept'] = 'Автоматическое преобразование предложения в счет после принятия клиентом (только предложения, связанные с клиентами)';
+$lang['proposal_auto_convert_to_invoice_on_client_accept'] = 'Автоматическое преобразование предложения в счет после принятия клиентом';
 $lang['invoice_activity_auto_converted_from_proposal']      = 'Счет автоматически создается из предложения с номером %s';
 $lang['clients_proposal_invoiced_successfully'] = 'Благодарим вас за принятие предложения. Пожалуйста, ознакомьтесь с созданным счетом-фактурой для этого предложения';
 

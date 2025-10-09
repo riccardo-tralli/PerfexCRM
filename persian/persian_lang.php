@@ -3870,7 +3870,7 @@ $lang['required_register_fields'] = 'فیلدهای اجباری برای ثبت
 
 # Version 3.1.6
 $lang['allow_non_admin_members_to_edit_ticket_messages'] = 'اجازه به اعضای غیرمدیر برای ویرایش پیام‌های تیکت';
-$lang['proposal_auto_convert_to_invoice_on_client_accept'] = 'تبدیل خودکار پیشنهاد به فاکتور پس از پذیرش مشتری (فقط پیشنهادهای مرتبط با مشتریان)';
+$lang['proposal_auto_convert_to_invoice_on_client_accept'] = 'تبدیل خودکار پیشنهاد به فاکتور پس از پذیرش مشتری';
 $lang['invoice_activity_auto_converted_from_proposal']      = 'فاکتور به طور خودکار از پیشنهاد با شماره %s ایجاد شد';
 $lang['clients_proposal_invoiced_successfully'] = 'از پذیرش پیشنهاد شما سپاسگزاریم. لطفاً فاکتور ایجاد شده برای پیشنهاد را بررسی کنید.';
 
